@@ -1,0 +1,1 @@
+Backend: run `npm install` then `npm run dev` in this folder. API endpoints: /api/traffic/state, /api/reports, /api/posts
