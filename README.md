@@ -7,7 +7,9 @@ Do not run backend only front end
 Run frontend:
 
 cd frontend
+
 npm install
+
 npm run dev
 
 
