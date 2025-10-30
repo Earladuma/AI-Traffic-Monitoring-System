@@ -2,10 +2,7 @@
 This archive contains a frontend (React + Vite) and backend (Express) prototype.
 
 Run backend:
-```
-cd backend
-npm install
-npm run dev
+Do not run backend
 ```
 Run frontend:
 ```
