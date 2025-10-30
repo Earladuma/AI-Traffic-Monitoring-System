@@ -2,7 +2,7 @@
 This archive contains a frontend (React + Vite) and backend (Express) prototype.
 
 Run backend:
-Do not run backend
+Do not run backend only front end
 ```
 Run frontend:
 ```
